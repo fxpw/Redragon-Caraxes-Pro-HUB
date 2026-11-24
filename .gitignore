@@ -1,0 +1,10 @@
+bin/
+.deps/
+obj/
+dist/
+node_modules/
+test-results/
+playwright-report/
+evidence/
+vendor/
+*.user
