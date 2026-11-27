@@ -115,3 +115,7 @@ See [HANDOFF.md](HANDOFF.md) for USB descriptors, protocol evidence, and
 references to the FURYCUBE source.
 
 The remaining hardware work is tracked in [PLAN.md](PLAN.md).
+
+## License
+
+Caraxes Pro HUB is licensed under the [MIT License](LICENSE).
